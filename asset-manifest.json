@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NYSPHAA/static/css/main.44375fd2.chunk.css",
+    "main.js": "/NYSPHAA/static/js/main.0ae68f76.chunk.js",
+    "main.js.map": "/NYSPHAA/static/js/main.0ae68f76.chunk.js.map",
+    "runtime-main.js": "/NYSPHAA/static/js/runtime-main.e81485c6.js",
+    "runtime-main.js.map": "/NYSPHAA/static/js/runtime-main.e81485c6.js.map",
+    "static/js/2.09ef5e16.chunk.js": "/NYSPHAA/static/js/2.09ef5e16.chunk.js",
+    "static/js/2.09ef5e16.chunk.js.map": "/NYSPHAA/static/js/2.09ef5e16.chunk.js.map",
+    "index.html": "/NYSPHAA/index.html",
+    "precache-manifest.c9039d0894dc79573dad1618baebffb4.js": "/NYSPHAA/precache-manifest.c9039d0894dc79573dad1618baebffb4.js",
+    "service-worker.js": "/NYSPHAA/service-worker.js",
+    "static/css/main.44375fd2.chunk.css.map": "/NYSPHAA/static/css/main.44375fd2.chunk.css.map",
+    "static/js/2.09ef5e16.chunk.js.LICENSE.txt": "/NYSPHAA/static/js/2.09ef5e16.chunk.js.LICENSE.txt",
+    "static/media/Person.png": "/NYSPHAA/static/media/Person.9c2b719c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81485c6.js",
+    "static/js/2.09ef5e16.chunk.js",
+    "static/css/main.44375fd2.chunk.css",
+    "static/js/main.0ae68f76.chunk.js"
+  ]
+}
