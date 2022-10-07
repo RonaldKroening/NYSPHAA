@@ -1,7 +1,7 @@
 {
   "name": "nyspha",
   "version": "0.1.0",
-  "homepage": "https://ronaldkroening.github.io/NYSPHAAA",
+  "homepage": "https://ronaldkroening.github.io/NYSPHAA",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
